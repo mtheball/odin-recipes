@@ -20,3 +20,7 @@ a {
   width: 400px;
   height: auto;
 }
+
+.recipe-proper, .recipe-proper > li {
+  text-align: left;
+}
