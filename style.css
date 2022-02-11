@@ -4,9 +4,8 @@
   text-align: center;
 }
 
-ul {
-  background-color: red;
-  list-style: none;
+.recipe-list > ul {
+  background-color:hsl(10 65% 70%);
 }
 
 a {
