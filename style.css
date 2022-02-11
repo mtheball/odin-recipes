@@ -4,5 +4,10 @@
 }
 
 ul {
+  background-color: red;
   list-style: none;
+}
+
+a {
+  color: white;
 }
