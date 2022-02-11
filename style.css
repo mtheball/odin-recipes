@@ -8,7 +8,7 @@
   background-color:hsl(10 65% 70%);
 }
 
-ul {
+.recipe-list > ul {
   list-style: none;
 }
 
@@ -24,3 +24,4 @@ a {
 .recipe-proper, .recipe-proper > li {
   text-align: left;
 }
+
